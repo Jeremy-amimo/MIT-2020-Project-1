@@ -1,0 +1,100 @@
+.read_more button{
+    background-color: red;
+    color: white;
+}
+img{
+    padding: 15px;
+}
+body{
+    background-color: #ffffff;
+}
+.nav_bar{
+    background-color: yellow;
+ }
+ button{
+     border: 1px solid yellow;
+     background-color: yellow;
+     width: 100px;
+     height: 50px;
+     font-size: 15px;
+     color: black;
+     border-radius: 10px;
+ }
+ hr{
+     background-color: yellow;
+     text-decoration: dotted;
+ }
+ .read hr{
+     background-color: gray;
+ }
+ h2{
+     color: #dcd329;
+ }
+ span{
+     color: #dcd329;
+ }
+ header{
+     background-color: #efefef;
+ }
+ h4{
+     color: #dcd329;
+ }
+ .read_more button{
+     background-color: red;
+ }
+ .image_1{
+     width: 25%;
+     min-height: 40vh;
+ }
+ .image_2{
+     width: 25%;
+     min-height: 40vh;
+     padding-left: 350px;
+     margin-top: -295px;
+ }
+ .image_3{
+     width: 25%;
+     min-height: 40vh;
+     padding-left: 700px;
+     margin-top: -370px;
+ }
+ .image_4{
+     width: 25%;
+     min-height: 40vh;
+ }
+ .image_5{
+     width: 25%;
+     min-height: 40vh;
+     padding-left: 350px;
+     margin-top: -370px;
+ }
+ .image_6{
+     width: 25%;
+     min-height: 40vh;
+     padding-left: 700px;
+     margin-top: -410px;
+ }
+ h6{
+     font-size: 30px;
+ }
+.footer_list{
+    list-style-type: none;
+}
+.second_footer{
+    background-color: yellow;
+    display: flex;
+}
+.read_more{
+    text-align: right;
+}
+.copy_right {
+    background-color: #dcd329;
+}
+.nav_bar hr{
+    background-color: yellow;
+    color: yellow;
+}
+.bar{
+    text-align: right;
+    color:#dcd329;
+}
